@@ -1,11 +1,9 @@
 1.Instale as dependências do frontend e do backend:
 
-cd frontend
-
+cd frontend  
 npm install
 
 Após
 
-cd ../backend
-
+cd ../backend  
 npm install
